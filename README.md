@@ -1,7 +1,7 @@
 ### Hello, stranger! ✨
 
 
-- 🚀 I'm looking for an intership program and I'm ready to start!
+- 🚀 I'm looking for an intership and I'm ready to start!
 - ☕ I’m currently learning Java but I have a great knowledge in Front-end as well (HTML, CSS, JavaScript)
 - ✉  Feel free to send me an e-mail: laridanielee98@icloud.com
 - 🏡 São Paulo - Brazil 
