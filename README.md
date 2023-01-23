@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo! ✨
 
 
-- 🚀 Meu nome é Larissa, eu tenho 24 anos e sou uma pessoa curiosa em entender o funcionamento de todas as coisas ao meu redor, sou autodidata, sempre com vontade de aprender coisas novas e estou sempre levando todos os desafios até o fim!
+- 🚀 Meu nome é Larissa, eu tenho 24 anos e sou uma pessoa curiosa em entender o funcionamento de todas as coisas ao meu redor, sou autodidata, com muita vontade de aprender coisas novas e estou sempre levando todos os desafios até o fim!
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi
 - ☕ Atualmente estudando redes, sistemas operacionais e segurança da informação
 - 🧩 Tenho uma ótima base em desenvolvimento Front-End (HTML, CSS, JavaScript e otimização de SEO)
